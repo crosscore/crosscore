@@ -6,6 +6,8 @@
   <img alt="contribution-splatoon" src="https://raw.githubusercontent.com/crosscore/crosscore/main/splatoon-dark.svg" />
 </picture>
 
+*Powered by [contribution-splatoon](https://github.com/crosscore/contribution-splatoon)*
+
 </div>
 
 <div align="center">
