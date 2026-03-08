@@ -12,18 +12,6 @@
 
 ---
 
-## 🚀 About Me
-
-```python
-class Yuu:
-    name       = "yuu"
-    interests  = ["AI / ML", "LLM", "OSS", "Automation"]
-    tools      = ["Docker", "FastAPI", "Next.js", "PyTorch"]
-    currently  = "Building cool things with LLMs 🤖"
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
