@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;OSS+Explorer;GitHub+Achievement+Hunter+%F0%9F%8F%86;Always+Learning..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;OSS+Explorer;Always+Learning..." alt="Typing SVG" />
 
 <br/>
 
@@ -73,21 +73,6 @@ class CrossCore:
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=crosscore&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎖️ Achievements
-
-<div align="center">
-
-| Badge | Achievement | Status |
-|:---:|---|:---:|
-| 🏹 | **Quickdraw** — Closed an issue within 5 minutes of opening | ✅ |
-| 🧬 | **YOLO** — Merged a PR without review | ✅ |
-| 👥 | **Pair Extraordinaire** — Co-authored commits | ✅ |
-| 🦈🦈🦈🦈 | **Pull Shark ×4 (Gold)** — Merged 1024 pull requests | ✅ |
 
 </div>
 
