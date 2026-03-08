@@ -13,6 +13,30 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crosscore/crosscore/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crosscore/crosscore/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/crosscore/crosscore/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=crosscore&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 ```python
@@ -78,30 +102,6 @@ class CrossCore:
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=crosscore&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crosscore/crosscore/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crosscore/crosscore/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/crosscore/crosscore/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 ## 🔗 Connect
 
 <div align="center">
@@ -115,4 +115,3 @@ class CrossCore:
 <div align="center">
 <sub>✨ Profile auto-generated with ❤️ — Last updated: 2026-03</sub>
 </div>
-
