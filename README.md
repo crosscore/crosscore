@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
@@ -24,8 +22,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=crosscore&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
----
 
 <h2 align="center">Trophies</h2>
 
