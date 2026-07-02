@@ -6,7 +6,7 @@
   <img alt="contribution graph ambient animation" src="https://raw.githubusercontent.com/crosscore/crosscore/main/ambient-dark.svg" />
 </picture>
 
-*Six scenes, one per minute — powered by [contribution-splatoon](https://github.com/crosscore/contribution-splatoon) ambient mode*
+*Six scenes, one per minute — powered by [contribution-gallery](https://github.com/crosscore/contribution-gallery) ambient mode*
 
 </div>
 
