@@ -1,12 +1,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crosscore/crosscore/main/ambient-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crosscore/crosscore/main/ambient.svg" />
-  <img alt="contribution graph ambient animation" src="https://raw.githubusercontent.com/crosscore/crosscore/main/ambient-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://contribution-gallery.vercel.app/api/ambient?theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://contribution-gallery.vercel.app/api/ambient" />
+  <img alt="contribution graph ambient animation" src="https://contribution-gallery.vercel.app/api/ambient?theme=dark" />
 </picture>
 
-*Six scenes, one per minute — powered by [contribution-gallery](https://github.com/crosscore/contribution-gallery) ambient mode*
+*Six scenes, one per minute, freshly shuffled on every visit — powered by [contribution-gallery](https://github.com/crosscore/contribution-gallery) ambient mode*
 
 </div>
 
