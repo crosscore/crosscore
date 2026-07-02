@@ -1,12 +1,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crosscore/crosscore/main/splatoon-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crosscore/crosscore/main/splatoon.svg" />
-  <img alt="contribution-splatoon" src="https://raw.githubusercontent.com/crosscore/crosscore/main/splatoon-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crosscore/crosscore/main/ambient-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crosscore/crosscore/main/ambient.svg" />
+  <img alt="contribution graph ambient animation" src="https://raw.githubusercontent.com/crosscore/crosscore/main/ambient-dark.svg" />
 </picture>
 
-*Powered by [contribution-splatoon](https://github.com/crosscore/contribution-splatoon)*
+*Six scenes, one per minute — powered by [contribution-splatoon](https://github.com/crosscore/contribution-splatoon) ambient mode*
 
 </div>
 
