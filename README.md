@@ -6,7 +6,7 @@
   <img alt="contribution graph ambient animation" src="https://contribution-gallery.vercel.app/api/ambient?theme=dark" />
 </picture>
 
-*Six scenes, one per minute, freshly shuffled on every visit — powered by [contribution-gallery](https://github.com/crosscore/contribution-gallery) ambient mode*
+*Six scenes, one every 15 seconds, freshly shuffled on every visit — powered by [contribution-gallery](https://github.com/crosscore/contribution-gallery) ambient mode*
 
 </div>
 
